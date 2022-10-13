@@ -1,0 +1,31 @@
+ {
+    "data":	"2022-10-12 13:00:00",
+    "emailPaciente": "vctr.ss4@gmail.com",
+    "encaminhamento": 0,
+    "horaFim": "2022-10-12T16:30:00+00:00",
+    "horaInicio": "2022-10-12T16:00:00+00:00",
+    "idLocalAgenda": 0,
+    "idOrigemPaciente":	0,
+    "idPaciente": 0,
+    "idPacienteConvenio": 0,
+    "idPessoaExecutor":	"4346707000000028015",
+    "idTipoConsulta": "4346707000000122028",
+    "notificarEmailPaciente": true,
+    "notificarEmailProfissional": false,
+    "notificarSMSPaciente": true,
+    "notificarSMSProfissional":	false,
+    "notificarWhatsappPaciente": true,
+    "observacoes": 0,
+    "procedimentos": [
+        {
+          "idEspecialidade": 0,
+          "idPromocao": 0,
+          "idTipoProcedimento": 0,
+          "quantidade": 0
+        }
+      ],
+      "status": "upcoming",
+      "telefoneCelularPaciente": "+5521992935338"
+    }
+
+
